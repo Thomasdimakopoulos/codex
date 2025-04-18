@@ -14,7 +14,6 @@ codex-cli/README.md
 result
 
 # editor
-.vscode/
 .idea/
 .history/
 *.swp
@@ -36,7 +35,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # env
-.env*
 !.env.example
 
 # package
@@ -67,3 +65,4 @@ pnpm-lock.yaml
 package.json-e
 session.ts-e
 CHANGELOG.ignore.md
+config.bat
