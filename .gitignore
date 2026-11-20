@@ -65,4 +65,5 @@ pnpm-lock.yaml
 package.json-e
 session.ts-e
 CHANGELOG.ignore.md
-config.bat
+
+.env*
